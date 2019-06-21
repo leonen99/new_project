@@ -1,0 +1,23 @@
+Filled container. 
+Contain 4 elemenst
+0: It is a text ciphered with shift
+Shift = 2
+Cipher text: cu
+Unencrypted text: as
+1: It is a text ciphered with shift
+Shift = 4
+Cipher text: uu{
+Unencrypted text: qqw
+2: It is a text ciphered with replace
+h - a
+l - g
+o - i
+Cipher text: aeggiwirgd
+Unencrypted text: helloworld
+3: It is a text ciphered with replace
+t - g
+e - z
+Cipher text: gzsg
+Unencrypted text: test
+Empty container. 
+Contain 0 elemenst
